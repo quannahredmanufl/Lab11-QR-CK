@@ -20,8 +20,6 @@ def subtract(a, b): a - b
 def multiply(a, b): a * b
 
 def divide(a, b):
-    if a == 0:
-        print("division by zero")
     else: b / a
 
 def logarithm(a, b):
